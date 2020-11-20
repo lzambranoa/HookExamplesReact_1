@@ -12,6 +12,13 @@ Proyecto de Ejercicios de Ejemplo de uso de los Hooks en React
     8. useMemo
     9. useCallback
 
+Proyecto de Ejemplo uso de Hook useReducer
+    1. useReducer
+    2. Reducer
+    3. Aplicación de TODOs
+    4. CRUD local
+    5. uso de localStorage
+
 ## Available Scripts
 
 In the project directory, you can run:
