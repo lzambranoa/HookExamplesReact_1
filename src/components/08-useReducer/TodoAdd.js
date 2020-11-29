@@ -17,7 +17,7 @@ export const TodoAdd = ({handleAddTodo}) => {
         const newTodo = {
             id: new Date().getTime(),
             desc: description,
-            donde: false
+            done: false
         }
 
         handleAddTodo(newTodo);
